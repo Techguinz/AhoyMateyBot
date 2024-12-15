@@ -1,4 +1,4 @@
-This project is a conversational chatbot built using a deep learning model and integrated with MongoDB to manage intents and responses. It features an interactive interface where users can input messages, and the bot responds appropriately based on the trained model. Additionally, the backend exposes RESTful APIs for managing intents via Flask.
+This project is a conversational chatbot built using a deep learning model and integrated with MongoDB to manage intents and responses. It features an interactive interface where users can input messages, and the bot responds appropriately based on the trained model. Additionally, the backend exposes RESTful APIs for managing intents via Flask. This bot can be phrased by TechBot
 
 The bot is designed to classify user inputs into predefined categories (intents) and generate responses using a trained neural network. It is highly customizable and can be easily extended with new intents, responses, and features.
 
